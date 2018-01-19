@@ -1,0 +1,22 @@
+{
+"Hip Hop": [
+    {
+      "Drake":"string",
+      "Style":["Pure Rap", "Hip Rap", "Hip Hop", "R&b", "Innovative"],
+      "Voice":["natural singing voice","regular voice","natural/minimal outside effect", "half autotune", "majority-all autotune"],
+      "FLow and/or Melody":["kicks and snares", "fast", "risky syllable game", "melodic on beat", "off beat"],
+      "Lyrics":["true to self", "half true half commercial", "versatile", "melodic and catchy", "minimal focus"],
+      "Place on Hip Hop Scale":[1,2,3,4,5],
+      "photo" : "iscale.iheart.com/v3/url/aHR0cDovL2ltYWdlLmloZWFydC5jb20vaW1hZ2VzL3JvdmkvMTA4MC8wMDAzLzcyMy9NSTAwMDM3MjM4NDguanBn"
+    },
+    {
+      "Kendrick Lamar":"string",
+      "Style":["Pure Rap", "Hip Rap", "Hip Hop", "R&b", "Innovative"],
+      "Voice":["natural singing voice","regular voice","natural/minimal outside effect", "half autotune", "majority-all autotune"],
+      "FLow and/or Melody":["kicks and snares", "fast", "risky syllable game", "melodic on beat", "off beat"],
+      "Lyrics":["true to self", "half true half commercial", "versatile", "melodic and catchy", "minimal focus"],
+      "Place on Hip Hop Scale":[1,2,3,4,5],
+      "photo" : "http://cache.umusic.com/_sites/kendricklamar.com/images/og.jpg"
+    }
+  ]
+}
