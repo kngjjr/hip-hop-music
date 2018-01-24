@@ -1,7 +1,7 @@
 {
 "Hip Hop": [
     {
-      "Drake":"string",
+      "name":"Drake",
       "Style":["Pure Rap", "Hip Rap", "Hip Hop", "R&b", "Innovative"],
       "Voice":["natural singing voice","regular voice","natural/minimal outside effect", "half autotune", "majority-all autotune"],
       "FLow and/or Melody":["kicks and snares", "fast", "risky syllable game", "melodic on beat", "off beat"],
@@ -10,7 +10,7 @@
       "photo" : "iscale.iheart.com/v3/url/aHR0cDovL2ltYWdlLmloZWFydC5jb20vaW1hZ2VzL3JvdmkvMTA4MC8wMDAzLzcyMy9NSTAwMDM3MjM4NDguanBn"
     },
     {
-      "Kendrick Lamar":"string",
+      "name":"Kendrick Lamar",
       "Style":["Pure Rap", "Hip Rap", "Hip Hop", "R&b", "Innovative"],
       "Voice":["natural singing voice","regular voice","natural/minimal outside effect", "half autotune", "majority-all autotune"],
       "FLow and/or Melody":["kicks and snares", "fast", "risky syllable game", "melodic on beat", "off beat"],
